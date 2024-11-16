@@ -29,6 +29,23 @@
 		773A10752CC184A500D61661 /* LearningUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LearningUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		773A10902CC1893700D61661 /* Exceptions for "LearningTests" folder in "Learning" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				LearningApp.swift,
+			);
+			target = 773A105A2CC184A400D61661 /* Learning */;
+		};
+		773A10912CC1893700D61661 /* Exceptions for "LearningTests" folder in "LearningTests" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				LearningApp.swift,
+			);
+			target = 773A106A2CC184A500D61661 /* LearningTests */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		773A105D2CC184A400D61661 /* Learning */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
@@ -37,6 +54,10 @@
 		};
 		773A106E2CC184A500D61661 /* LearningTests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				773A10902CC1893700D61661 /* Exceptions for "LearningTests" folder in "Learning" target */,
+				773A10912CC1893700D61661 /* Exceptions for "LearningTests" folder in "LearningTests" target */,
+			);
 			path = LearningTests;
 			sourceTree = "<group>";
 		};
