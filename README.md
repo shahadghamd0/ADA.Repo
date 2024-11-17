@@ -1,4 +1,5 @@
-# ADA.Repo
+# Learning Journey App
+![Onboarding Screen](image/Learning2.png)
 
 # Learning Journey App 📚🔥
 
@@ -13,6 +14,7 @@ A minimalistic and intuitive app that helps users track their learning journey w
 - **Simple and Clear UI**: A user-friendly, dark-themed interface designed for seamless tracking and engagement.
 
 ## Screenshots 📱
+![Onboarding Screen](image/Learning.png)
 
 
 ## Getting Started 🚀
@@ -66,8 +68,4 @@ Feel free to contribute to this project. Here’s how:
 2. Create a new branch for your feature or bug fix.
 3. Make your changes.
 4. Open a pull request with a clear description of your work.
-
-## License 📄
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
