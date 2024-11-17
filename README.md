@@ -1,7 +1,7 @@
-# Learning Journey 🔥
+# Learning Journey App 🔥
 ![Onboarding Screen](image/Learning2.png)
 
-# Learning Journey App 📚🔥
+
 
 A minimalistic and intuitive app that helps users track their learning journey with daily and weekly goals, freeze days, and streak tracking. Whether you're learning a new skill, language, or technology, this app is designed to motivate and keep you on track every step of the way!
 
