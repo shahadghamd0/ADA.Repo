@@ -1,4 +1,4 @@
-# Learning Journey App
+# Learning Journey 🔥
 ![Onboarding Screen](image/Learning2.png)
 
 # Learning Journey App 📚🔥
