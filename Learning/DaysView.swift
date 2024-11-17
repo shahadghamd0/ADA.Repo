@@ -339,7 +339,7 @@ struct DaysView: View {
        private func checkInactivity() {
            guard let lastAction = lastActionDate else { return }
            if Date().timeIntervalSince(lastAction) > thirtyHours {
-               // Reset the streak if more than 30 minutes have passed since the last action
+               // Reset the streak if more than 30 hours have passed since the last action
                userData.StreakDays = 0
                lastActionDate = nil // Reset last action date
            }
